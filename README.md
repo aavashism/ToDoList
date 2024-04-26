@@ -16,12 +16,10 @@ This is a simple command-line to-do list application written in C#. It allows yo
 1. Clone this repository.
 2. Open a command prompt or terminal and navigate to the project directory.
 3. Build the project using:
-
-```bash
 dotnet build
 
-4. Run the application using:
 
+4. Run the application using:
 dotnet exec bin/Debug/net8.0/todo-list.dll
 
 ## Using the Application
