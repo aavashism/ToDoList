@@ -1,4 +1,4 @@
-# # To-Do List Application (C#)
+# To-Do List Application (C#)
 
 This is a simple command-line to-do list application written in C#. It allows you to:
 
